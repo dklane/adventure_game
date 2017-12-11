@@ -5,11 +5,11 @@
 ## Problem statement:
 Create an adventure program similar to the [example in chapter 5](http://inventwithpython.com/invent4thed/chapter5.html).
 ## Requirements:
-1. Has a different theme and flow than the provided example.
+1. Your game must have a different theme and flow than the provided example.
 1. Includes an algorithm in this README.
 1. Includes a test plan in this README.
 1. Contains at least three functions.
-1. Each function accepts input parameters.
+1. At least one function must accept an input parameter.
 1. Each function generates output or a return value.
 1. Return values are used by the caller.
 1. Uses the random.randint() and time.sleep(2) functions.
