@@ -7,7 +7,7 @@ Create an adventure program similar to the [example in chapter 5](http://inventw
 ## Requirements:
 1. Has a different theme and flow than the provided example.
 1. Includes an algorithm in this README.
-1. Includes a test plan in the readme.
+1. Includes a test plan in this README.
 1. Contains at least three functions.
 1. Each function accepts input parameters.
 1. Each function generates output or a return value.
